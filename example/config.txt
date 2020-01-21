@@ -1,0 +1,2 @@
+Prefix plugins/CumulativeTime/example/
+Plugin CumulativeTime inputfile parameters.txt outputfile ChosenGenes_Cumulative_DEE1_RSV_

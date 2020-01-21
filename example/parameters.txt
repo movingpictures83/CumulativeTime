@@ -1,0 +1,2 @@
+training	plugins/CumulativeTime/example/ViralChallenge_training_EXPRESSION_RMA.tsv
+clinical	plugins/CumulativeTime/example/ViralChallenge_training_CLINICAL.tsv
