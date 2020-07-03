@@ -2,7 +2,8 @@
 # Language: R
 # Input: TXT (parameters)
 # Output: Prefix (selected features)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
+# Dependency: graphics_4.0.0, caret_6.0.86, spls_2.2.3, mlbench_2.2.1
 
 PluMA plugin that chooses the best features to use 
 to classify a set of samples for each point over a set of timepoints.
